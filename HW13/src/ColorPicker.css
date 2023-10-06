@@ -1,0 +1,10 @@
+.color-box{
+width: 100%;
+height: 50px;
+padding: 10px;
+    background-color: white;
+}
+.color-box p{
+    text-align: center;
+    color: white;
+}
